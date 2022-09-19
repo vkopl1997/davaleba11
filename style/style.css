@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none ;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+header{
+    padding: 30px;
+    background-color: rgb(116, 166, 210);
+}
+header ul{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+header ul a{ 
+    padding: 30px;
+    color: rgb(213, 46, 46);
+    font-size: 20px;
+    
+}
